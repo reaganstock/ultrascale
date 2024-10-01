@@ -1,0 +1,4 @@
+account_name,workspace,username,password,proxy
+SlackAccount1,company1,user1@example.com,password123,
+SlackAccount2,company2,user2@example.com,securepass456,http://proxy.example.com:8080
+SlackAccount3,company3,user3@example.com,strongpwd789,
